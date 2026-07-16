@@ -1,0 +1,27 @@
+model_params:
+  name: 'VanillaVAE'
+  in_channels: 1
+  latent_dim: 128
+
+
+data_params:
+  train_batch_size: 64
+  val_batch_size:  32
+  patch_size: 128
+  num_workers: 4
+
+
+exp_params:
+  LR: 0.001
+  weight_decay: 0.0
+  scheduler_gamma: 0.95
+  kld_weight: 0.00025
+  manual_seed: 22
+
+trainer_params:
+  gpus: [0]
+  max_epochs: 150
+
+logging_params:
+  save_dir: "./model_result"
+  name: "DIVAESR"

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Confidence Estimation"
+  short_description: "Estimate uncertainty for reconstructed structures."
+  brand_color: "#7A5A2F"
+  default_prompt: "Use $confidence-estimation to add or debug uncertainty reports in the agent_qwen harness."
+
+policy:
+  allow_implicit_invocation: true

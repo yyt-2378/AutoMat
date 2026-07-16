@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       As6Si2
+_chemical_formula_sum              "As6 Si2"
+_cell_length_a       9.394178270414015
+_cell_length_b       9.07722053134041
+_cell_length_c       5.518148647317437
+_cell_angle_alpha    126.62856893354063
+_cell_angle_beta     114.54122590322532
+_cell_angle_gamma    74.94329737319059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5253283457466345  0.8745780076523338  0.7434163679184613  1.0000
+  As  As2       1.0  0.2864645759915286  0.14480409168818767  0.2728605563234057  1.0000
+  As  As3       1.0  0.27793397306298573  0.6528698800791408  0.8479992726311908  1.0000
+  As  As4       1.0  0.5342996093561159  0.365971543848425  0.16723260466317694  1.0000
+  As  As5       1.0  0.3310613799177554  0.131156668465892  0.8337453729470203  1.0000
+  As  As6       1.0  0.48078094565840496  0.8882657385849461  0.18271631194463792  1.0000
+  Si  Si1       1.0  0.3486188350639773  0.6198993022441496  0.3101523230044051  1.0000
+  Si  Si2       1.0  0.4637381002187441  0.3989714552142366  0.704827964184469  1.0000

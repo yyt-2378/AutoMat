@@ -1,0 +1,8 @@
+interface:
+  display_name: "STEM Reconstruction"
+  short_description: "Run the staged STEM-to-CIF agent workflow."
+  brand_color: "#2F6F73"
+  default_prompt: "Use $stem-reconstruction to run or extend the agent_qwen staged STEM-to-CIF workflow."
+
+policy:
+  allow_implicit_invocation: true

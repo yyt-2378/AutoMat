@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local harness outputs
+harness_runs/
+
+# Large local model files
+MOE_model_weights/
+*.ckpt
+*.pt
+
+# Local editor/runtime files
+.DS_Store
+*.log
+*.tmp
